@@ -1,0 +1,10 @@
+const { Client, Intents } = require("discord.js");
+const client = new Client({
+        ws: {
+            intents: (new Intents()).add(
+                Intents.FLAGS.GUILDS,
+                Intents.FLAGS.GUILD_MEMBERS,
+            ),
+        },
+        partials: ['USER', 'GUILD_MEMBER'],
+    });
