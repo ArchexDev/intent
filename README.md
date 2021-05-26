@@ -4,6 +4,6 @@
 
 ``` Main : (index.js , server.js , bot.js vb.)```
 
-# ⚫  Kodu Çalıştırmak İçin Mainin Herhangi Bir Yerinde Atabilirsiniz!,
+# 🕊️  Kodu Çalıştırmak İçin Mainin Herhangi Bir Yerinde Atabilirsiniz!,
 
 ```kaan#1337,melih#1337```
